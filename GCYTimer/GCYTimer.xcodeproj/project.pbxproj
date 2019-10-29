@@ -14,6 +14,7 @@
 		3E653A4D236891A1003BA3EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E653A4C236891A1003BA3EB /* Assets.xcassets */; };
 		3E653A50236891A1003BA3EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E653A4E236891A1003BA3EB /* LaunchScreen.storyboard */; };
 		3E653A53236891A1003BA3EB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E653A52236891A1003BA3EB /* main.m */; };
+		3E653A5B23689FA4003BA3EB /* CYTimer.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E653A5A23689FA4003BA3EB /* CYTimer.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		3E653A4F236891A1003BA3EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3E653A51236891A1003BA3EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3E653A52236891A1003BA3EB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3E653A5923689FA4003BA3EB /* CYTimer.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CYTimer.h; sourceTree = "<group>"; };
+		3E653A5A23689FA4003BA3EB /* CYTimer.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CYTimer.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				3E653A4E236891A1003BA3EB /* LaunchScreen.storyboard */,
 				3E653A51236891A1003BA3EB /* Info.plist */,
 				3E653A52236891A1003BA3EB /* main.m */,
+				3E653A5923689FA4003BA3EB /* CYTimer.h */,
+				3E653A5A23689FA4003BA3EB /* CYTimer.m */,
 			);
 			path = GCYTimer;
 			sourceTree = "<group>";
@@ -149,6 +154,7 @@
 				3E653A482368919F003BA3EB /* ViewController.m in Sources */,
 				3E653A422368919F003BA3EB /* AppDelegate.m in Sources */,
 				3E653A53236891A1003BA3EB /* main.m in Sources */,
+				3E653A5B23689FA4003BA3EB /* CYTimer.m in Sources */,
 				3E653A452368919F003BA3EB /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
